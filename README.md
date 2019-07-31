@@ -1,2 +1,2 @@
 # portfolio
-Illustration, Poster, Fonts
+Illustrations, Poster, Fonts
